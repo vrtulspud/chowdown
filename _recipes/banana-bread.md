@@ -19,7 +19,7 @@ ingredients:
 
 directions:
 - 1. Beat the eggs, then cream with the butter and sugar
-2. - Mix in bananas, then flour, baking soda/powder, salt, and nuts
+- Mix in bananas, then flour, baking soda/powder, salt, and nuts
 - Add to greased and floured pan
 - Bake until brown/cracked, toothpick comes out clean
 
