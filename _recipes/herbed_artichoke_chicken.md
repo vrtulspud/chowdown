@@ -29,7 +29,7 @@ directions:
 
 ---
 
-**Servings:** 6 | **Preparation Time:** ? hours | **Cook Time:** 6-8 hours
+**Servings:** 6 | **Preparation Time:** ? hours | **Cook Time:** 6-8 hours |
 
 **Source:** The New Creative Crock-Pot Slow Cooker Cookbook
 
