@@ -1,8 +1,8 @@
 # Site settings
-title: Chowdown
+title: Chowdown Now
 email: your-email@domain.com
 description: The plain text recipe database for hackers
-baseurl: "https://vrtulspud.github.io/"
+baseurl: "https://vrtulspud.github.io/chowdown/"
 language: "en"
 lang_direction: "ltr"
 color: "#007FFF"
