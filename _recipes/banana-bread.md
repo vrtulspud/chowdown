@@ -7,9 +7,9 @@ imagecredit: https://flic.kr/p/7HZmzn
 tags: breakfast, baking
 
 ingredients:
-- 4 bananas
-- 1/2 cup butter
-- 1/2 cup sugar
+- 1. 4 bananas
+- 1. 1/2 cup butter
+- 2. 1/2 cup sugar
 - 2 eggs
 - 2 cups flour
 - 1/2 tsp baking soda
