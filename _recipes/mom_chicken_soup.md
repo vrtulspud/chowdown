@@ -25,8 +25,7 @@ directions:
 - Reduce heat to simmer and cook for 1-2 hours.
 - Add carrots, celery, onion. Bring back to boil.
 - Reduce heat to simmer and cook for 1 more hour.
-
-Cook noodles as needed for individual servings.
+- Cook noodles as needed for individual servings.
 
 ---
 
