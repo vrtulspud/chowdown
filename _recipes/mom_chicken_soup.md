@@ -28,12 +28,3 @@ directions:
 - Cook noodles as needed for individual servings.
 
 ---
-
-Servings: Many
-Preparation Time: 1-2 hours
-Cook Time: 2-3 hours
-Source: Mom
-
-Usually double all ingredients but spices when using the large stock pot.
-May use 1/2 or 1 tsp dry dill to replace fresh dill.
-May use 1 heaping tsp of parsley to replace fresh parsley. I've used a full tablespoon of dry parsley in the large stockpot without issue.
