@@ -19,17 +19,17 @@ ingredients:
 - NOYOLKS NOODLES-BROAD
 
 directions:
-- Bring water and chicken to boil; skim off top of water. 
-- Prepare all other ingredients, beginning with garlic, dill, salt, and parsley.
-- When there is nothing left to skim, add garlic, dill, salt, and parsley.
-- Reduce heat to simmer and cook for 1-2 hours.
-- Add carrots, celery, onion. Bring back to boil.
-- Reduce heat to simmer and cook for 1 more hour.
-- Cook noodles as needed for individual servings.
+- 1) Bring water and chicken to boil; skim off top of water. 
+- 2) Prepare all other ingredients, beginning with garlic, dill, salt, and parsley.
+- 3) When there is nothing left to skim, add garlic, dill, salt, and parsley.
+- 4) Reduce heat to simmer and cook for 1-2 hours.
+- 5) Add carrots, celery, onion. Bring back to boil.
+- 6) Reduce heat to simmer and cook for 1 more hour.
+- 7) Cook noodles as needed for individual servings.
 
 ---
 
-Servings: Many | Preparation Time: 1-2 hours | Cook Time: 2-3 hours | Source: Mom
+**Servings:** Many | **Preparation Time:** 1-2 hours | **Cook Time:** 2-3 hours | **Source:** Mom
 
 Usually double all ingredients but spices when using the large stock pot.
 May use 1/2 or 1 tsp dry dill to replace fresh dill.
