@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  Split Pea Soup with Rosemary
+title: Split Pea Soup with Rosemary
 image: 
 imagecredit: 
 tags: lunch, dinner, main dish, side, frozen
@@ -35,8 +35,6 @@ directions:
 - 7) Combine remaining 1 teaspoon oil, remaining 1 teaspoon garlic, remaining 2 teaspoons rosemary, and 3 tablespoons parsley; stir into soup. 
 - 8) Ladle soup into individual bowls; top each serving with sour cream and remaining 1 tablespoon parsley. 
 
-Yield: 6 servings (serving size: about 1 cup soup, 2 teaspoons sour cream and 1/2 teaspoon parsley).
-
 
 ---
 
@@ -44,4 +42,4 @@ Yield: 6 servings (serving size: about 1 cup soup, 2 teaspoons sour cream and 1/
 
 **Source:** ?
 
-This is a unique and tasty variation of split pea soup. Hearty enough for dinner, it also keeps well in the refrigerator. Try serving it with whole-grain bread.
+This is a unique and tasty variation of split pea soup. Hearty enough for dinner, it also keeps well in the refrigerator. Try serving it with whole-grain bread. Yield: 6 servings (serving size: about 1 cup soup, 2 teaspoons sour cream and 1/2 teaspoon parsley).
