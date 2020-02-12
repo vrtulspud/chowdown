@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Smashed Carrots"
+title:  "z_Smashed Carrots"
 image: smashed-carrots.jpg
 tags: sides, vegetables
 
