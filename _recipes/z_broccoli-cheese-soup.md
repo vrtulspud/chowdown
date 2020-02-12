@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "z_Broccoli Beer Cheese Soup"
-image: z_broccoli-beer-cheese-soup.jpg
+image: broccoli-beer-cheese-soup.jpg
 tags: sides, soups
 
 ingredients:
