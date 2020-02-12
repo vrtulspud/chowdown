@@ -4,7 +4,7 @@ layout: recipe
 title:  "Copycat Olive Garden Minestrone Soup"
 image: copycat_olive_garden_minestrone_soup.jpg
 imagecredit: 
-tags: lunch, dinner, main dish, side, frozen
+tags: lunch, dinner, main dish, side, frozen, maggie
 
 ingredients:
 - 3 tablespoon Oil, Olive
