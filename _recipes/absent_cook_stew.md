@@ -7,11 +7,11 @@ imagecredit:
 tags: lunch, dinner, main dish, side, frozen
 
 ingredients:
-- 2 lbs Beef Stew Meat
-- 2-3 Carrots
-- 1 Onion, White
-- 3 large Potatoes, Red
-- 3 ribs Celery, Stalk
+- 2 lbs Beef Stew Meat (cubed)
+- 2-3 Carrots (sliced)
+- 1 Onion, White (chopped)
+- 3 large Potatoes, Red (cubed)
+- 3 ribs Celery (sliced)
 - 2.5 c Soup, Tomato
 - dash of Pepper, Ground Black
 - 2 Tbsp Vinegar, White
