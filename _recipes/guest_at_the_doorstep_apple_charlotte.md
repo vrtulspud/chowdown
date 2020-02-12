@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: "Guest-at-the-Doorstep" Apple Charlotte
+title: Guest-at-the-Doorstep Apple Charlotte
 image: guest_at_the_doorstep_apple_charlotte.jpg
 imagecredit: 
 tags: dessert, snack, breakfast, maggie
