@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Crockpot Buffalo Chicken"
+title:  "z_Crockpot Buffalo Chicken"
 image: crockpot-buffalo-chicken.jpg
 tags: mains, grill, party
 
