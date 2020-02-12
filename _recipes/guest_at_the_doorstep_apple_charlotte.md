@@ -7,14 +7,14 @@ imagecredit:
 tags: dessert, snack, breakfast, maggie
 
 ingredients:
-- Butter
-- Breadcrumbs, Unflavored
-- 6 large Apples, Tart (Granny Smith)
-- 1 teaspoon Cinnamon, Ground
+- Butter (for greasing the form)
+- Breadcrumbs, Unflavored (for sprinkling the form)
+- 6 large Apples, Tart (Granny Smith) (cored, peeled, quartered, and sliced crosswise)
+- 1 teaspoon Cinnamon, Ground (optional()
 - 3 Eggs, Large
 - 1 cup less 1 Tbsp Sugar, White
 - 1 teaspoon Vanilla Extract
-- 1 1/2 cup Flour, Unbleached All-purpose
+- 1 1/2 cup Flour, Unbleached All-purpose (sifted)
 
 
 directions:
