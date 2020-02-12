@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Green Spaghetti"
+title:  "z_Green Spaghetti"
 image: green-spaghetti.jpg
 tags: mains, pasta
 
