@@ -17,7 +17,7 @@ ingredients:
 - pinch salt
 - 1/4 cup nuts (we like pecans)
 
-directions:
+# directions:
 - # Beat the eggs, then cream with the butter and sugar
 - Mix in bananas, then flour, baking soda/powder, salt, and nuts
 - Add to greased and floured pan
