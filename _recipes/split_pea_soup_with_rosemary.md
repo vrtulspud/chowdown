@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Split Pea Soup with Rosemary"
+title:  Split Pea Soup with Rosemary
 image: 
 imagecredit: 
 tags: lunch, dinner, main dish, side, frozen
