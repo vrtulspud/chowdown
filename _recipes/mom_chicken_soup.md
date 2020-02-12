@@ -29,7 +29,8 @@ directions:
 
 ---
 
- **Servings:** Many | **Preparation Time:** 1-2 hours | **Cook Time:** 2-3 hours | **Source:** Mom   
+ **Servings:** Many | **Preparation Time:** 1-2 hours | **Cook Time:** 2-3 hours | **Source:** Mom |  
+
 
 Usually double all ingredients but spices when using the large stock pot.
 May use 1/2 or 1 tsp dry dill to replace fresh dill.
