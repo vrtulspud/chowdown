@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Herbed Artichoke Chicken"
-image: herbed_artichoke_chicken.jpg
+image: 
 imagecredit: 
 tags: lunch, dinner, crockpot, main dish, side, frozen
 
@@ -29,7 +29,8 @@ directions:
 
 ---
 
-**Servings:** 6 | **Preparation Time:** ? hours | **Cook Time:** 6-8 hours | **Source:** The New Creative Crock-Pot Slow Cooker Cookbook |  
+**Servings:** 6 | **Preparation Time:** ? hours | **Cook Time:** 6-8 hours
+**Source:** The New Creative Crock-Pot Slow Cooker Cookbook
 
 Inviting the flavors of tomato, artichokes, Greek olives, and herbs imbue the chicken and tease the appetite.
 
