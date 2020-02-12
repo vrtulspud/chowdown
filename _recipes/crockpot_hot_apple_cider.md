@@ -20,6 +20,8 @@ directions:
 
 ---
 
-**Servings:** 20 | **Preparation Time:** 10 min | **Cook Time:** 2 hours | **Source:** about.com |  
+**Servings:** 20 | **Prep:** 10 min | **Cook:** 2 hours | 
+
+**Source:** about.com
 
 If you like, use a strainer to scoop out the spices before serving.
