@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Red Berry Tart"
+title:  "z_Red Berry Tart"
 image: red-berry-tart.jpg
 tags: desserts
 
