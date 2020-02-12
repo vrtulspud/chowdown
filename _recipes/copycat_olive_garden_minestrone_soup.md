@@ -8,27 +8,26 @@ tags: lunch, dinner, main dish, side, frozen, maggie
 
 ingredients:
 - 3 tablespoon Oil, Olive
-- 1 cup Onion, White
-- 1/4 cup Celery, Stalk
-- 1/2 cup Zucchini
-- 4 teaspoon Garlic, Fresh
+- 1 cup Onion, White (minced, about 1 small onion)
+- 1/4 cup Celery (minced, about 1/2 or 1 rib)
+- 1/2 cup Zucchini (chopped)
+- 4 teaspoon Garlic, Fresh (minced, about 4 cloves)
 - 1/2 cup Green Beans, Frozen Cut Italian
 - 4 cup Stock, Vegetable
-- 1-14 oz can Tomatoes, Diced
-- 1-15 oz can Canned Beans, Red Kidney
-- 1-15 oz can can Canned Beans, Small White
-- 1-15 oz can Canned Beans, Great Northern
-- 1/2 cup Carrots
+- 1-14 oz can Tomatoes, Diced (canned)
+- 1-15 oz can Canned Beans, Red Kidney (drained and rinsed)
+- 1-15 oz can can Canned Beans, Small White OR 1-15 oz can Canned Beans, Great Northern (drained and rinsed) 
+- 1/2 cup Carrots (julienned or shredded)
 - 1-8 oz can Tomato Paste
 - 3 cup Water (hot)
 - 1 Bay Leaf
-- 2 tablespoon Parsley, Fresh
+- 2 tablespoon Parsley, Fresh (minced)
 - 1 1/2 teaspoon Oregano, Dried
 - 1/2 teaspoon Pepper, Ground Black
 - 1/2 teaspoon Basil, Dried
 - 1/4 teaspoon Thyme, Dried Leaves
 - 1 cup Wine, Red
-- 4 cup Baby Spinach
+- 4 cup Baby Spinach (fresh)
 - 1/2 cup Pasta, Small Shell
 - Romano Cheese, Grated
 
