@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Dutch Cucumbers In Sour Cream"
-image: 
+image: dutch_cucumbers_in_sour_cream.jpg
 imagecredit: 
 tags: side, snack, party
 
