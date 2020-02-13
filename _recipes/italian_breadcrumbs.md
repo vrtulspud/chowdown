@@ -19,7 +19,7 @@ ingredients:
 
 
 directions:
-Mix all ingredients. Makes 1 cup.
+- Mix all ingredients. Makes 1 cup.
 
 
 
