@@ -4,7 +4,7 @@ layout: recipe
 title:  "Crockpot Hot Apple Cider"
 image: crockpot_hot_apple_cider.jpg
 imagecredit: 
-tags: beverage
+tags: beverage, crockpot, slow cooker
 
 ingredients:
 - 1 gallon Apple Cider
