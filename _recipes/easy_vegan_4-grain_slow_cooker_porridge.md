@@ -4,7 +4,7 @@ layout: recipe
 title: "Easy Vegan 4-Grain Slow Cooker Porridge"
 image: easy_vegan_4-grain_slow_cooker_porridge.jpg
 imagecredit: 
-tags: breakfast, main dish, frozen
+tags: breakfast, main dish, frozen, crockpot, slow cooker
 
 ingredients:
 - 1 cup steel cut oats
