@@ -39,4 +39,6 @@ directions:
 
 **Pr. Cook Time:** 10-15 min | **Pr. Level:** High(2) | **Open:** Normal |
 
-**Source:** https://www.hippressurecooking.com/cream-of-butternut-squash-ginger-soup/
+**Source:** https://www.hippressurecooking.com/cream-of-butternut-squash-ginger-soup/ and Instant Pot Recipe Booklet
+
+
