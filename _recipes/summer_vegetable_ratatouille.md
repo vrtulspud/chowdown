@@ -4,7 +4,7 @@ layout: recipe
 title: Summer Vegetable Ratatouille
 image: summer_vegetable_ratatouille.jpg
 imagecredit: 
-tags: lunch, dinner, main dish, side, frozen
+tags: lunch, dinner, main dish, side, frozen, crockpot, slow cooker, instant pot
 
 ingredients:
 - 2 medium Eggplant (cut into 1/2" slices)
