@@ -4,7 +4,7 @@ layout: recipe
 title:  "Chili"
 image: chili.jpg
 imagecredit: 
-tags: lunch, dinner, main dish, side, frozen, maggie
+tags: lunch, dinner, main dish, side, frozen, maggie, dutch oven
 
 ingredients:
 - 1 tbsp Oil, Olive
