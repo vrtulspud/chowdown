@@ -4,7 +4,7 @@ layout: recipe
 title:  "Wild Mushroom Beef Stew"
 image: wild_mushroom_beef_stew.jpg
 imagecredit: 
-tags: lunch, dinner, main dish, side, frozen
+tags: lunch, dinner, main dish, side, frozen, crockpot, slow cooker
 
 ingredients:
 - 1 1/2 to 2 lbs Beef Stew Meat (cut in 1" cubes)
