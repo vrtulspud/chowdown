@@ -10,7 +10,7 @@ ingredients:
 - 4 pound butternut Squash, peeled, seeded and cubed
 - 1 sprig of Sage
 - 1 large Onion, roughly chopped
-- 1" piece of fresh ginger, peeled and roughly sliced
+- 1 inch piece of fresh ginger, peeled and roughly sliced
 - 1/4 teaspoon, nutmeg
 - 4 cups vegetable stock
 - olive oil
