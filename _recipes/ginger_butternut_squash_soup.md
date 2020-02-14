@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Ginger and Butternut Squash Soup"
+title: "Ginger and Butternut Squash Soup"
 image: 
 imagecredit: 
 tags: lunch, dinner, main dish, side, frozen, instant pot
