@@ -35,7 +35,7 @@ directions:
 
 
 
-**Servings:** ? | **Prep:** 5 min | **Cook:** 20 min | 
+**Servings:** ? | **Prep:** 5 min | **Cook:** 25 min | 
 
 **Pr. Cook Time:** 10-15 min | **Pr. Level:** High | **Open:** Quick Release |
 
