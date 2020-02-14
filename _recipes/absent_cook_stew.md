@@ -22,7 +22,7 @@ ingredients:
 directions:
 - 1) Add 1 Tbsp flour and meat in ziplock bag. Toss until meat is covered.
 - 2) Cover pan with oil coating and brown meat.
-- 3) Combine all ingredients in slow cooker: vegetables, meat, then remaining ingredients.
+- 3) Combine all ingredients in slow cooker (vegetables, meat, then remaining ingredients).
 - 4) Cover. Cook on Low for 10-12 hours.
 
 
