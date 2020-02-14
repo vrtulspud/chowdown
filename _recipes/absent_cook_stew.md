@@ -4,7 +4,7 @@ layout: recipe
 title:  "Absent Cook Stew"
 image: absent_cook_stew.jpg
 imagecredit: 
-tags: lunch, dinner, main dish, side, frozen
+tags: lunch, dinner, main dish, side, frozen, crockpot, slow cooker
 
 ingredients:
 - 2 lbs Beef Stew Meat (cubed)
