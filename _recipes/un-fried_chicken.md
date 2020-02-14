@@ -4,7 +4,7 @@ layout: recipe
 title:  "Un-Fried Chicken"
 image: 
 imagecredit: 
-tags: lunch, dinner, main dish
+tags: lunch, dinner, main dish, oven
 
 ingredients:
 - Oil, Light Vegetable Cooking Spray
