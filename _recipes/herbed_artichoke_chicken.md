@@ -4,7 +4,7 @@ layout: recipe
 title:  "Herbed Artichoke Chicken"
 image: 
 imagecredit: 
-tags: lunch, dinner, crockpot, main dish, side, frozen
+tags: lunch, dinner, crockpot, main dish, side, frozen, slow cooker
 
 ingredients:
 - 1 1/2 lbs Chicken Breast, Boneless And Skinless
