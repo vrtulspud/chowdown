@@ -4,7 +4,7 @@ layout: recipe
 title: Guest-at-the-Doorstep Apple Charlotte
 image: guest_at_the_doorstep_apple_charlotte.jpg
 imagecredit: 
-tags: dessert, snack, breakfast, maggie
+tags: dessert, snack, breakfast, maggie, oven
 
 ingredients:
 - Butter (for greasing the form)
