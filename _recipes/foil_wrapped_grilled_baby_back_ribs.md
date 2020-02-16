@@ -4,7 +4,7 @@ layout: recipe
 title:  "Foil-Wrapped Grilled Baby Back Ribs"
 image: 
 imagecredit: 
-tags: beverage, blender, smoothie
+tags: lunch, dinner, main course, grill
 
 
 ingredients:
