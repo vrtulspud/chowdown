@@ -35,4 +35,4 @@ directions:
 
 **Source:** allrecipes.com
 
-Instead of measuring out the spices and sprinkling over the chicken, I place the chicken in a glass baking dish and sprinkle the spices over both sides of the chicken, one after another. Stupid simple and quick prep. The original recipe calls for chicken with skin, but I find the chicken without skin works fine, and the spices create their own skin over the meat.
+Instead of measuring out the spices and sprinkling over the chicken, I place the chicken in a glass baking dish and sprinkle the spices over both sides of the chicken, one after another. Stupid simple and quick prep. The original recipe calls for chicken with skin, but I find the chicken without skin works fine, and the spices create their own skin over the meat. I've made this with as many as four chicken breasts for leftovers.
