@@ -43,3 +43,4 @@ directions:
 
 **Source:** Weber's Time to Grill™ by Jamie Purviance
 
+In the past, I've halved the salt and didn't smoke with wood chips. Only did one rack, so there was plenty of rub.
