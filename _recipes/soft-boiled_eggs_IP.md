@@ -13,25 +13,26 @@ ingredients:
 
 
 directions:
-- Select [Saute] to pre-heat the pressure cooker. In the pressure cooker, with the top off, soften onions with the sage, salt and pepper.
-- When the onions are soft, scoot onions aside and add a handful of squash cubes to cover the base of the pressure cooker. 
-- Let squash cubes brown for for about 10 minutes, stirring infrequently.
-- Add the rest of the squash along with the ginger, nutmeg, and stock.
-- Close and lock the lid of the Instant Pot.  Select [Pressure Cook] or [Manual], set to [High], and then use the [+] or [-] buttons to set 15 minutes of time.  
-- When time is up, open the cooker by releasing the pressure, using the Quick Release method.
-- Remove the woody sage stem and discard.
-- With a stick immersion blender, puree the contents of the pressure cooker.
-- Garnish with salty, toasted pumpkin seeds and serve.
+- Pour the 2 cups of water into the insert of the Instant Pot. (Note: Do measure 2 cups as opposed to using the markings on the inside of the insert.)
+- Lay the steamer insert inside. 
+- Place 4 eggs on top.
+- Cover the pot. 
+- Using the manual button, set the pot to 3 minutes and low pressure.
+- Make sure the valve on top is set to sealing.
+- Fill a bowl with ice water or cold tap water.
+- When the 3 minutes are up, which will take more like 9 minutes, switch the valve to venting and let the steam escape for no more than 1 minute before carefully removing the lid.
+- Transfer eggs to water bath, let cool for 30 seconds or so. 
+- Peel, season and eat.
 
 
 ---
 
 
 
-**Servings:** ? | **Prep:** 5 min | **Cook:** 25 min | 
+**Servings:** 4 | **Prep:** 2 min | **Cook:** 10 min | 
 
-**Pr. Cook Time:** 10-15 min | **Pr. Level:** High | **Open:** Quick Release |
+**Pr. Cook Time:** 3 min | **Pr. Level:** Low | **Open:** 1 min Natural, then Quick Release |
 
-**Source:** https://www.hippressurecooking.com/cream-of-butternut-squash-ginger-soup/ and Instant Pot Recipe Booklet
+**Source:** https://alexandracooks.com/2018/01/19/perfect-instant-pot-soft-boiled-eggs/#tasty-recipes-52086
 
-
+Made in a 6-qt Instant Pot.
