@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Basic Preparation Instructions for Organic Whole Grain Kamut® Berries"
+title:  "Basic Preparation Instructions for Kamut Berries"
 image: 
 imagecredit: 
 tags: side, frozen, instant pot
