@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Basic Preparation Instructions for Kamut Berries"
+title:  "Basic Preparation for Kamut Berries"
 image: 
 imagecredit: 
 tags: side, frozen, instant pot
