@@ -6,14 +6,13 @@ image:
 tags: lunch, dinner, main course, stovetop, oven
 
 directions:
-- Bake the crust and let it cool
+- Prepare the sauce, first.
 - Make the custard, pour into crust
 - Make the red berry topping, spread over the top
 
 components:
-- Graham Cracker Crust
+- Spaghetti Sauce
 - Vanilla Custard Filling
-- Red Berry Dessert Topping
 
 ---
 
