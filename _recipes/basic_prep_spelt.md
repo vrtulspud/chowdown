@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Basic Preparation Instructions for Organic Spelt Berries"
+title:  "Basic Preparation for Spelt Berries"
 image: 
 imagecredit: 
 tags: side, frozen, instant pot
