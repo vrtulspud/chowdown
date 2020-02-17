@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Basic Preparation Instructions for Organic Whole Grain Amaranth"
+title:  "Basic Preparation Instructions for Whole Grain Amaranth"
 image: 
 imagecredit: 
 tags: breakfast, instant pot
