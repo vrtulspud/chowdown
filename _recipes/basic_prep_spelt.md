@@ -8,7 +8,7 @@ tags: side, frozen, instant pot
 
 ingredients:
 - 1 cup Organic Spelt Berries or Spelt Berries
-- 3–8 cups Water
+- 3 cups Water
 - 1 tsp Salt (optional)
 
 
