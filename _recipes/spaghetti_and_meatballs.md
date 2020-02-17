@@ -7,12 +7,14 @@ tags: lunch, dinner, main course, stovetop, oven
 
 directions:
 - Prepare the sauce, first.
-- Make the custard, pour into crust
-- Make the red berry topping, spread over the top
+- Prepare and bake meatballs.
+- Once meatballs are done cooking, add them to the sauce. 
+- Continue to simmer until total simmer time for the sauce is at least 2 hours. The length of simmer time will affect the thickness of the sauce. 
+- Prior to serving, add Romano cheese to taste.
 
 components:
 - Spaghetti Sauce
-- Vanilla Custard Filling
+- Meatballs
 
 ---
 
