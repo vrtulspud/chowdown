@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Basic Preparation Instructions for Organic Farro"
+title:  "Basic Preparation Instructions for Farro"
 image: 
 imagecredit: 
 tags: side, frozen, instant pot
