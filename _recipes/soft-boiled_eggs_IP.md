@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: "Perfect Instant Pot Soft-boiled Eggs"
+title: "Soft-boiled Eggs in the Instant Pot"
 image: 
 imagecredit: 
 tags: component, lunch, dinner, main dish, side, instant pot
