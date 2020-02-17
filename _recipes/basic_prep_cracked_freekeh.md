@@ -8,14 +8,17 @@ tags: lunch, dinner, side, freeze, instant pot
 
 ingredients:
 - 1 ⅔ cup Water
-- ½ tsp Salt
+- ½ tsp Salt (optional)
 - 1 cup Cracked Freekeh
 
 
 directions:
-- Please water, salt and freekeh in the pot of a multi-cooker. Set the valve to sealing. Select “Multigrain” Setting. Press “Pressure” until High Pressure is illuminated. Press “Adjust” until Normal is illuminated.
-Using the “-“ and “+” keys, set cook time for 10 minutes.
-Once the cooking time has finished, leave steam release handle in place and allow the pressure to release naturally. Drain excess water and serve.
+- Place water, salt and freekeh in the pot of a multi-cooker. 
+- Set the valve to sealing.
+- Select “Multigrain” Setting. Press “Pressure” until High Pressure is illuminated. Press “Adjust” until Normal is illuminated.
+- Using the “-“ and “+” keys, set cook time for 10 minutes.
+- Once the cooking time has finished, leave steam release handle in place and allow the pressure to release naturally.
+- Drain excess water and serve.
 
 
 
