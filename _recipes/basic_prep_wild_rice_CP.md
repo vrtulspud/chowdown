@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Basic Preparation of Wild Rice"
-image: absent_cook_stew.jpg
+image: 
 imagecredit: 
 tags: lunch, dinner, side, crockpot, slow cooker, freeze
 
