@@ -8,7 +8,7 @@ tags: breakfast, instant pot
 
 ingredients:
 - 1 cup Organic Amaranth Grain
-- 1 ½–2 ½ cups Water or Stock
+- 1 ½ cups Water or Stock
 - ¼–½ tsp Salt (optional)
 
 
