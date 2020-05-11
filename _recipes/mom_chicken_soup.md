@@ -12,7 +12,6 @@ ingredients:
 - 1/4 c Dill Weed, Fresh
 - 1 tbsp Salt, Iodized
 - 1 tbsp Parsley, Fresh
-- 1/2 tsp baking soda
 - 1 lb Carrots
 - 1 stalk Celery, Stalk
 - 1 Onion, Yellow
