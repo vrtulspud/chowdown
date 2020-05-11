@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Stewed Lentils and Tomatoes"
-image: 
+image: stewed_lentils_and_tomatoes.jpg
 imagecredit: 
 tags: lunch, dinner, dutch oven, main dish, side, frozen
 
