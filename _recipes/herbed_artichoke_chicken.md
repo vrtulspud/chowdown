@@ -15,11 +15,11 @@ ingredients:
 - 1 cup Stock, Nonfat Chicken
 - 1/4 cup Wine, Dry White
 - 3 tbsp quick cooking tapioca
-- 2 tsp Curry Powder
+- 2 tsp Curry Powder (try reducing to 1 tsp)
 - 1 tbsp Parsley, Fresh Italian (Chopped)
 - 1 tsp Basil, Dried
 - 1 tsp Thyme, Dried Leaves
-- 1/2 tsp Pepper, Freshly Ground Black
+- 1/2 tsp Pepper, Freshly Ground Black (try reducing to 1/4 tsp)
 
 directions:
 - 1) Combine all the ingredients in the Crock-Pot slow cooker.
