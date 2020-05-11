@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Beer Bread"
-image: 
+image: beer_bread.jpg
 imagecredit: 
 tags: side, oven
 
